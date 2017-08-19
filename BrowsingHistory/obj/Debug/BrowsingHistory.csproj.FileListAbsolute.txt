@@ -8,3 +8,12 @@ c:\users\abu sayed siddique\documents\visual studio 2015\Projects\BrowsingHistor
 c:\users\abu sayed siddique\documents\visual studio 2015\Projects\BrowsingHistory\BrowsingHistory\obj\Debug\BrowsingHistory.csproj.GenerateResource.Cache
 c:\users\abu sayed siddique\documents\visual studio 2015\Projects\BrowsingHistory\BrowsingHistory\obj\Debug\BrowsingHistory.exe
 c:\users\abu sayed siddique\documents\visual studio 2015\Projects\BrowsingHistory\BrowsingHistory\obj\Debug\BrowsingHistory.pdb
+D:\OS Project\br-history\BrowsingHistory\bin\Debug\BrowsingHistory.exe.config
+D:\OS Project\br-history\BrowsingHistory\obj\Debug\BrowsingHistory.exe
+D:\OS Project\br-history\BrowsingHistory\obj\Debug\BrowsingHistory.pdb
+D:\OS Project\br-history\BrowsingHistory\bin\Debug\BrowsingHistory.exe
+D:\OS Project\br-history\BrowsingHistory\bin\Debug\BrowsingHistory.pdb
+D:\OS Project\br-history\BrowsingHistory\obj\Debug\BrowsingHistory.csprojResolveAssemblyReference.cache
+D:\OS Project\br-history\BrowsingHistory\obj\Debug\BrowsingHistory.Form1.resources
+D:\OS Project\br-history\BrowsingHistory\obj\Debug\BrowsingHistory.Properties.Resources.resources
+D:\OS Project\br-history\BrowsingHistory\obj\Debug\BrowsingHistory.csproj.GenerateResource.Cache
